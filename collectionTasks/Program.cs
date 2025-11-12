@@ -6,10 +6,11 @@ namespace collectionTasks
     {
         static void Main(string[] args)
         {
+            //Yoxlama commit
             //Task1
             /*   int[] numArray = { -2, 5, 0, 7 };
                MyMethod nums = new MyMethod();
-               Console.WriteLine(nums.FindSumOfPositiveNumbers(numArray)); ;*/
+               Console.WriteLine(nums.FindSumOfPositiveNumbers(numArray)); ;*/ 
 
             //Task2
             /* List<int> list = new List<int> { 2, 2, 3, 2, 4, 3};
